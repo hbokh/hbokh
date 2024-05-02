@@ -1,6 +1,32 @@
 ```txt
-   __   _                 | Henk Bokhoven
-  / /  (_)__  __ ____  __ | E-mail : hb...@worldonline.nl
- / /__/ / _ \/ // /\ \/ / | S.u.S.E. Linux 5.2 - Kernel 2.0.35
-/____/_/_//_/\_,_/ /_/\_\ | on an AMD486DX2-80 / 44Mb RAM
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW..;;;;;.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWW.;;;;;;;WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWW;;;;;;;;;WWWWWWWWWWWWWWWWWWWWWW..WWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW.;;;;;;;;.WWWWWWWWWWWWWWWWWWWWWWW..;;.WWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWW...;;;.......;;..WWWWWWWWWWWWWWWWWWWWWWWW.;;..WWWWWWWWW
+WWWWWWWWWWWWWWWW...;;;;;;;;;;;;;;;;;;;;;;..WWWWWWWWWWWWWWWWWWWW.;;;.WWWWWWWW
+WWWWWWWWWWWWWW.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWWWWWWWWWWWWWWW.;;;;..WWWWWW
+WWWWWWWWWWW;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.WWWWWWWWWWWWWW.;;;;;..WWWWW
+WWWWWWWWW.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.WWWWWWWWWWWW.;;;;;;..WWWW
+WWWWWWW....;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.WWWWWWWWWW.;;;;;;;;..WWW
+WWWWW.WWW..WWWWV..;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+..WWWWWWW.;;;;;;;;;..WWW
+WWW.WWWWWWWWWWWWWWWW;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWW.;;;;;;;;;;;..WWW
+WW.VW......WWWWWWWWW.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;....;;;;;;;;;;;..WWWW
+WW.WW......WWWWWWWWWW.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWWW
+WW..WWW.....WWWWWWWWV.;;;;;;...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWWWWWW
+WW.;.W.WWWWWWWWWWWWW.;;;;;;;;..;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.WWWWWWWW
+WW...;.VW..WWWWWWWW.;..;;;;;;..;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWWWW
+WWW......;;;......;;;;;;..;;;..;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWWW
+WWW.WW.VV...............;;;;;..;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..WWWW
+WWW.WW.WWWWV.;;;;;;.;....;;;...;;;;;;;;;;;;;;;;;;;;;;;;....;;;;;;;;;;;..WWWW
+WWW.WW.WWWWV....;;;;;;;..;;;..;;;;;;;;;;;;;;;;;;;;;;;..WWWW..;;;;;;;;;..WWWW
+WWW.WW.WWWWV.;;;;;;.;;;;.;;;;;;;;;;;;;;;;;;;;;..;;....WWWWWW..;;;;;;;;..WWWW
+WWW.WW.WWWWV.....;;;;;;;;;;;;;;;;;;;;;;;;;.;;;;....WWWWWWWWWWW.;;;;;;..WWWWW
+WWW.WW.WWWWV.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.;;.....WWWWWWWWWWWW.;;;;;;..WWWWW
+WWW....WWWWV..;;;;;;;.;;;;;;;;;;;;;;;;;;;;......WWWWWWWWWWWWWW.;;;;;..WWWWWW
+WWWWWWW...WV.WW......+;;;;;;;;;;;;;;;;;;;;;...WWWWWWWWWWWWWWW.;;;;;;.WWWWWWW
+WWWWWWWWWWWWWWWWWWWWW..;;;;;;;;;;;;;;;;;...WWWWWWWWWWWWWWWWWW.;;;..WWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWW..;;;;;;;;;...WWWWWWWWWWWWWWWWWWWWWW.;;.WWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 ```
