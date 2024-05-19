@@ -1,7 +1,7 @@
 # Moi
 
-I am Henk.
+I am Henk, a sysadmin and glue developer.
 
-## 🎵 Last.fm output, automatically updated every day
+## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
 
