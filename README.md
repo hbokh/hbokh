@@ -1,6 +1,6 @@
-# Moi
+# 👋 Hello
 
-I am Henk and I'm a Linux sysadmin.
+My name is Henk and I work as a Linux sysadmin at <a href="https://www.voys.co/about/">Voys</a>.
 
 ## 🎧 def get_weekly_album_chart()
 <!-- lastfm -->
