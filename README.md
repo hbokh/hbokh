@@ -1,6 +1,6 @@
 # Moi
 
-I am Henk, sysadmin and glue developer.
+I am Henk and I'm a Linux sysadmin.
 
 ## 🎧 def get_weekly_album_chart()
 <!-- lastfm -->
