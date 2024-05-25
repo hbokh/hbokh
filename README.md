@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hi there
 
 My name is Henk and I work as a Linux sysadmin at <a href="https://www.voys.co/about/">Voys</a> (previously "Devhouse Spindle" aka Voys development department).
 
