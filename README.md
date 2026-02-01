@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Henk and I work as a Linux sysadmin at <a href="https://www.voys.co/about/">Voys</a> (previously "Devhouse Spindle" aka Voys development department).
+My name is Henk and I work as a sysadmin / engineer at <a href="https://www.voys.co/about/">Voys</a>.
 
 ## 🎧 def get_weekly_album_chart()
 <!-- lastfm -->
